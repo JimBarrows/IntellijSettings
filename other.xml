@@ -1,0 +1,66 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/editor_scheme.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.9.1" last-modified="1511735635000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.8.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" />
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="6.3.1" last-modified="1469133890000" />
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="generateColumnProperties" value="true" />
+    <option name="generateDefaultRelationships" value="true" />
+    <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df9adf93df9bdfc9df9bdfc9dfcedfcbdf9edfcedf98dfcedf9ddfc8df9ddfcedfc9dfcbdf92dfc8dfc9dfc9df92dfcedf9bdf99dfc9df9edfc9df9fdfc9df9cdfccdf99df92dfc8df9bdf9edf9cdfce</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="JimBarrows" />
+      <option name="repoName" value="starter_kit" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <Gitlab shared="false" url="https://gitlab.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="1459828" />
+      </option>
+      <password>df9bdf9edfc1dfdbdfd9dfc1dfdddfcfdfd2df9bdf9bdfe2dfc0dfc1dfe6dfc2dff2dfdcdfe9dfdc</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="EXTRACT_SUPERCLASS_JAVADOC" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
