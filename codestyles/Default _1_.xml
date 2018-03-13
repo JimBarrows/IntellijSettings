@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -11,6 +11,10 @@
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
   </JSON>
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -39,6 +43,10 @@
         <group>
           <type>DEPENDENT_METHODS</type>
           <order>BREADTH_FIRST</order>
+        </group>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
         </group>
       </groups>
     </arrangement>
