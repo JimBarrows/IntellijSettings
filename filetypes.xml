@@ -24,7 +24,6 @@
       <mapping pattern="label_file" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="story" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="conf" type="YAML" />
     </extensionMap>
