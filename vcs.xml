@@ -134,11 +134,12 @@
           <option name="url" value="https://github.com/eh3rrera/graphql-java-spring-boot-example" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:/ErpMicroServices/accounting_and_budgeting-database.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/erp_microservices" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects" />
   </component>
 </application>
