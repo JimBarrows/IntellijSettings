@@ -146,8 +146,12 @@
           <option name="url" value="git@github.com:/ErpMicroServices/people_and_organizations-endpoint-graphql.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:surgeforward/surge-ops-dev.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects/ERP Microservices" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Surge" />
   </component>
 </application>
