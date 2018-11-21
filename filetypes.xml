@@ -24,6 +24,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="conf" type="YAML" />
     </extensionMap>
   </component>
