@@ -1,4 +1,7 @@
 <application>
+  <component name="DockerSettings">
+    <option name="dockerMachinePath" value="/usr/local/bin/docker-machine" />
+  </component>
   <component name="DockerTreeFilter">
     <option name="myUntaggedImagesHidden" value="true" />
   </component>
