@@ -150,6 +150,18 @@
           <option name="url" value="git@bitbucket.org:surgeforward/surge-ops-dev.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://repo.z4.net:8990/projects/KENOCLOUD/repos/kenocloud-old/browse" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jbarrows@repo.z4.net:8990/scm/kenocloud/kenocloud-old.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://repo.z4.net:8990" />
+          <option name="userName" value="jbarrows" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/Surge" />
