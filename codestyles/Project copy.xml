@@ -1,0 +1,46 @@
+<code_scheme name="Project copy" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ALIGN_IMPORTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+    <arrangement>
+      <groups>
+        <group>
+          <type>GROUP_PROPERTY_FIELD_WITH_GETTER_SETTER</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>TREAT_LAMBDA_INITIALIZED_FIELDS_AS_METHODS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+    </arrangement>
+  </codeStyleSettings>
+</code_scheme>
