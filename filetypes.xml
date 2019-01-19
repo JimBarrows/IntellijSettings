@@ -7,25 +7,23 @@
       <mapping pattern="RegistrationSpec" type="JavaScript" />
       <mapping pattern="topic_creat" type="JavaScript" />
       <mapping pattern="50_something" type="PLAIN_TEXT" />
-      <mapping pattern="label_file" type="PLAIN_TEXT" />
       <mapping pattern="iptablesload" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="tag_environment_staging" type="PLAIN_TEXT" />
       <mapping pattern="iptablessave" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="tag_environment_staging" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="label_file" type="PLAIN_TEXT" />
+      <mapping ext="edi" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="edi" type="PLAIN_TEXT" />
-      <removed_mapping ext="conf" type="SmartyConfig" />
-      <mapping ext="conf" type="YAML" />
       <removed_mapping pattern="TextAreaFormGroup" approved="true" type="JSX Harmony" />
     </extensionMap>
   </component>
