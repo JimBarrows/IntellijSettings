@@ -1,0 +1,8 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="EXTRACT_SUPERCLASS_JAVADOC" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
