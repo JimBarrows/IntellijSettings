@@ -166,8 +166,16 @@
           <option name="url" value="http://bitbucket.z4.net:8990" />
           <option name="userName" value="jbarrows" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:GrindheadGames/phaser-ce-angular-cli-boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Surge" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync" />
   </component>
 </application>
