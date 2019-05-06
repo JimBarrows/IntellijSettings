@@ -174,8 +174,12 @@
           <option name="url" value="https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@vmlnxatlstash.lowes.com:42000/seo/seo-redirect.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync" />
+    <option name="cloneParentDir" value="C:\Users\jbarrow\Desktop\projects" />
   </component>
 </application>
