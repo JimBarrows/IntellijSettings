@@ -186,6 +186,14 @@
           <option name="url" value="ssh://git@vmlnxatlstash.lowes.com:42000/seo/storeinfo-presentation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tools.lowes.com/stash/projects/SEO/repos/seowidget-data-batch/browse" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@vmlnxatlstash.lowes.com:42000/seo/seowidget-data-batch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jbarrow\Desktop\projects" />
