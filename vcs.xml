@@ -202,6 +202,10 @@
           <option name="url" value="ssh://git@vmlnxatlstash.lowes.com:42000/seo/seo-url-generator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@vmlnxatlstash.lowes.com:42000/sear/sitemapswitchboardgenerator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jbarrow\Desktop\projects" />
