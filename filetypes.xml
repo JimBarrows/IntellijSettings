@@ -1,32 +1,43 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Docker" type="Docker file" />
-      <mapping pattern="gitignore_global.txt" type="Git file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="temp" type="JSON" />
       <mapping pattern="RegistrationSpec" type="JavaScript" />
       <mapping pattern="topic_creat" type="JavaScript" />
-      <mapping pattern="50_something" type="PLAIN_TEXT" />
+      <mapping pattern="iptablessave" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="tag_environment_staging" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="50_something" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="iptablesload" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="tag_environment_staging" type="PLAIN_TEXT" />
-      <mapping pattern="iptablessave" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="production" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="label_file" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="edi" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Makefile" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="TextAreaFormGroup" approved="true" type="JSX Harmony" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Docker" type="Docker file" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
 </application>
