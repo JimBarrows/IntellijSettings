@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Docker" type="Docker file" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="temp" type="JSON" />
@@ -36,7 +37,6 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="TextAreaFormGroup" approved="true" type="JSX Harmony" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="Docker" type="Docker file" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
