@@ -1,7 +1,6 @@
 <code_scheme name="Project copy" version="173">
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
