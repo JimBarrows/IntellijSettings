@@ -210,9 +210,17 @@
           <option name="url" value="ssh://git@vmlnxatlstash.lowes.com:42000/~pvempar/seowidget-data-svc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.devskiller.com/b168ce1c-55aa-4582-a3cf-d9b41fe59b01.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.devskiller.com/4f37f6f3-7b56-4efe-b17c-811adec67841.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jbarrow\Desktop\projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
