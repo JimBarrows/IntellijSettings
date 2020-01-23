@@ -13,6 +13,13 @@
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="GENERATE_FINAL_LOCALS" value="true" />
+    <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="IF_BRACE_FORCE" value="3" />
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="BLANK_LINES_AROUND_CLASS" value="0" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
