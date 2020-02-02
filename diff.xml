@@ -26,6 +26,11 @@
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
         </PlaceSettings>
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>

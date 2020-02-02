@@ -222,6 +222,22 @@
           <option name="url" value="https://git.devskiller.com/e2fc861c-e467-445e-a899-b36164f17ac0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.pie.apple.com:james-barrows/gutenberg-publish-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.pie.apple.com:james-barrows/gutenberg-translation-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.pie.apple.com/gutenberg/gutenberg-topic-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.pie.apple.com:gutenberg/gutenberg-topic-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync" />
