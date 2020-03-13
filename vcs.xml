@@ -238,6 +238,10 @@
           <option name="url" value="git@github.pie.apple.com:gutenberg/gutenberg-topic-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.pie.apple.com:jbarrows2/ACC_Development.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync" />
