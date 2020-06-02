@@ -19,6 +19,10 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAnonymousClasses" value="true" />
   </component>
+  <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true" INVERT_ON_ORDER="true">
+    <option name="autoAliasTable" value="true" />
+    <option name="invertOrderInOnClause" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
