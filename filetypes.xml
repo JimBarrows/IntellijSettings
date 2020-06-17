@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="database" type="JavaScript" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="PublishToGithub" type="YAML" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
