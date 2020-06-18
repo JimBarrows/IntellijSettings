@@ -1,59 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="Pipenv (api-server) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/api-server-Bx7BP3Tt/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/api-server-Bx7BP3Tt/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/api-server-Bx7BP3Tt/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/41228061" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/api-server-Bx7BP3Tt/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/api-server-Bx7BP3Tt/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/api-server-Bx7BP3Tt/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/41228061" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Pipenv (portal) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/portal-HX16o_Mk/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/portal-HX16o_Mk/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/portal-HX16o_Mk/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/433731636" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/portal-HX16o_Mk/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/portal-HX16o_Mk/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/portal-HX16o_Mk/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/433731636" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="react-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
