@@ -282,6 +282,10 @@
           <option name="url" value="git@github.com:ErpMicroServices/invoice-endpoint-rest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ErpMicroServices/invoice-database.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync/ERP Microservices" />
