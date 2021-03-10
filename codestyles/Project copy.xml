@@ -9,16 +9,16 @@
     <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
     <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
   </CsvCodeStyleSettings>
-  <DB2CodeStyleSettings version="2">
+  <DB2CodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
+  <DerbyCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
+  <H2CodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
+  <HSQLCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
@@ -47,16 +47,16 @@
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </LessCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
+  <MSSQLCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
+  <OracleCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
+  <PostgresCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </PostgresCodeStyleSettings>
   <Properties>
@@ -74,7 +74,7 @@
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="OPTIMIZE_IMPORTS_CASE_INSENSITIVE_ORDER" value="true" />
   </Python>
-  <SQLiteCodeStyleSettings version="2">
+  <SQLiteCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </SQLiteCodeStyleSettings>
   <ScssCodeStyleSettings>
@@ -85,7 +85,7 @@
   <Shell_Script>
     <option name="SWITCH_CASES_INDENTED" value="true" />
   </Shell_Script>
-  <SybaseCodeStyleSettings version="2">
+  <SybaseCodeStyleSettings version="5">
     <option name="USE_GENERIC_STYLE" value="true" />
   </SybaseCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
@@ -128,13 +128,6 @@
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="GraphQL">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
