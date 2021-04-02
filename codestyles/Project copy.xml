@@ -64,7 +64,6 @@
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
   <Python>
-    <option name="SPACE_BEFORE_LBRACKET" value="true" />
     <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
     <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
     <option name="DICT_ALIGNMENT" value="2" />
@@ -203,8 +202,6 @@
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
