@@ -10,6 +10,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="routes" approved="true" type="Play 2 Routing" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="routes" approved="true" type="Play 2 Routing" />
       <mapping pattern="ignore" type="Git exclude file" />
