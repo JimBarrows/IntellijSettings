@@ -16,6 +16,7 @@
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAnonymousClasses" value="true" />
