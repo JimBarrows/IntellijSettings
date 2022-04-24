@@ -442,6 +442,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.jax.ws">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.jetbrains.lang.ejs">
           <value>
             <PluginData>

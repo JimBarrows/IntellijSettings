@@ -6,6 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="xjb" type="XML" />
+      <mapping ext="wsdd" type="XML" />
       <mapping pattern="PublishToGithub" type="YAML" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
