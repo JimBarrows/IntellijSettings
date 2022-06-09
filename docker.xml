@@ -1,4 +1,7 @@
 <application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://$USER_HOME$/Desktop/projects.nosync/ERP Microservices/people_and_organizations-endpoint-graphql/docker-compose.yml" />
+  </component>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="docker-compose" />
     <option name="dockerMachinePath" value="docker-machine" />
