@@ -5,8 +5,8 @@
       <template name="AbstractType.java" file-name="${NAME}" reformat="true" live-template-enabled="false" />
       <template name="AbstractTypeController.java" file-name="${ENTITY_NAME}Controller" reformat="true" live-template-enabled="false" />
       <template name="AbstractTypeRepository.java" file-name="${ENTITY_NAME}Repository" reformat="true" live-template-enabled="false" />
-      <template name="GraphqlConnection.java" file-name="${NAME}Connection" reformat="true" live-template-enabled="false" />
-      <template name="GraphqlEdge.java" file-name="${NAME}Edge" reformat="true" live-template-enabled="false" />
+      <template name="GraphqlConnection.java" file-name="${ENTITY_NAME}Connection" reformat="true" live-template-enabled="false" />
+      <template name="GraphqlEdge.java" file-name="${ENTITY_NAME}Edge" reformat="true" live-template-enabled="false" />
     </default_templates>
   </component>
 </application>
