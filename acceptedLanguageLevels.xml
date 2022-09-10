@@ -4,6 +4,7 @@
       <name>JDK_17</name>
       <name>JDK_18</name>
       <name>JDK_17_PREVIEW</name>
+      <name>JDK_18_PREVIEW</name>
     </explicitly-accepted>
   </component>
 </application>
