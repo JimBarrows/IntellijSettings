@@ -326,9 +326,13 @@
           <option name="url" value="git@github.com:dhis2/dhis2-core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ErpMicroServices/products-endpoint-rest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync/ERP Microservices" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
