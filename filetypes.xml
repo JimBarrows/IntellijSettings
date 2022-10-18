@@ -2,9 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="database" type="JavaScript" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="PublishToGithub" type="YAML" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
@@ -13,6 +10,9 @@
       <removed_mapping ext="routes" approved="true" type="Play 2 Routing" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="routes" approved="true" type="Play 2 Routing" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
