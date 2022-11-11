@@ -334,6 +334,10 @@
           <option name="url" value="https://github.com/hashicorp/learn-terraform-resources.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hashicorp/learn-terraform-hashicups-provider" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/projects.nosync" />
