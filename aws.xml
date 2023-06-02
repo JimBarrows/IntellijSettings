@@ -2,6 +2,9 @@
   <component name="aws">
     <option name="promptedForTelemetry" value="true" />
   </component>
+  <component name="codewhispererAutotriggerStates">
+    <option name="classifierGroup" value="true" />
+  </component>
   <component name="codewhispererSettings">
     <option name="value">
       <map>
@@ -23,7 +26,7 @@
           <option name="autoResolved" value="true" />
           <option name="executablePath" value="/usr/local/bin/sam" />
           <option name="id" value="samCli" />
-          <option name="lastKnownFileTime" value="1669861153816" />
+          <option name="lastKnownFileTime" value="1685199397825" />
         </ExecutableState>
       </list>
     </option>
